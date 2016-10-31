@@ -69,7 +69,7 @@ GETパラメータのroomにルーム名を指定することで、特定のグ�
 
 無償で利用可能な音声認識エンジンとして、 Google の Web Speech API を使用しています。
 
-<img src="https://github.com/usk108/mieta/wiki/images/stt.png">
+<img src="https://github.com/usk108/mieta/wiki/images/stt.png" width="500">
 
 #### Wikipedia解説モード
 専門用語・固有名詞など口話法での読み取りが困難な単語を指定することで、その意味情報を表示できます。
