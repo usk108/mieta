@@ -91,7 +91,7 @@ GETパラメータのroomにルーム名を指定することで、特定のグ�
 
 Custom Search APIを使用している。
 
-<img src="https://github.com/usk108/mieta/wiki/images/wikipedia.png" width="500">
+<img src="https://github.com/usk108/mieta/wiki/images/image_search.png" width="500">
 
 ## 工夫した点
 ### 可視化モードがプラグインのように拡張可能な設計
