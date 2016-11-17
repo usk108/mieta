@@ -6,10 +6,12 @@
 
 現在も開発中のものになります。
 
-- デモ映像
+- デモ映像(youtube)
+
 [![デモ映像](https://img.youtube.com/vi/Ruq-6e94fko/0.jpg)](https://www.youtube.com/watch?v=Ruq-6e94fko)
 
 - プロトタイプ
+
 ![全体図](https://github.com/usk108/mieta/wiki/images/mieta.png)
 
 ## 研究の概要
